@@ -1,3 +1,2 @@
-go
-to
-sleep
+#goto
+#SLEEP
